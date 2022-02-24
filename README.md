@@ -9,7 +9,7 @@ Celem tego projektu było stworzenie stworzeniu fragmentu interfejsu webowego wy
 **Client:** Typescript, React, SCSS modules, FetchAPI
 
 ## Demo
-[Public Deploy](fs-table-task.netlify.app)
+[Public Deploy](https://fs-table-task.netlify.app/)
 
 ## Uruchom lokalnie
 
