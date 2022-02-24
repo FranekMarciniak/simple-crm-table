@@ -1,0 +1,15 @@
+input:focus {
+  outline: none;
+}
+.search__box__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+.search__box {
+  width: 400px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 10px;
+}
